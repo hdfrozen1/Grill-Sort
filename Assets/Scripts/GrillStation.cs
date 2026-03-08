@@ -202,4 +202,45 @@ public class GrillStation : MonoBehaviour
 
         return true;
     }
+
+    public Trayitem GetFirstTray()
+    {
+        if (_stackTrays.Count > 0)
+            return _stackTrays.Peek();
+        return null;
+    }
+
+    public IEnumerable<Image> ListFoodActive()
+    {
+        List<Image> result = new List<Image>();
+        for (int i = 0; i < _totalSlot.Count; i++)
+        {
+            if (_totalSlot[i].HasFood)
+                result.Add(_totalSlot[i].ImgFood);
+        }
+        for (int i = 0; i < _totalTrays.Count; i++)
+        {
+            Trayitem tray = _totalTrays[i];
+            if (tray.gameObject.activeInHierarchy)
+            {
+                for (int j = 0; j < tray.FoodList.Count; j++)
+                {
+                    if(tray.FoodList[j].gameObject.activeInHierarchy)
+                        result.Add(tray.FoodList[j]);
+                }
+            }
+        }
+        return result;
+    }
+
+    public void OnShuffleFX()
+    {
+        for (int i = 0; i < _totalSlot.Count; i++)
+        {
+            if (_totalSlot[i].HasFood)
+            {
+                _totalSlot[i].DoShuffle();
+            }
+        }
+    }
 }

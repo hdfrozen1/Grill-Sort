@@ -4,6 +4,7 @@ using DG.Tweening;
 
 public class FoodSlot : MonoBehaviour
 {
+    public Image ImgFood => _imgFood;
     private Image _imgFood;
 
     private Color _normalColor = new Color(1f, 1f, 1f, 1f);
@@ -25,7 +26,7 @@ public class FoodSlot : MonoBehaviour
         _imgFood.gameObject.SetActive(true);
         _imgFood.sprite = spr;
         _imgFood.SetNativeSize();
-    }   
+    }
 
     public void OnActiveFood(bool active)
     {
@@ -71,20 +72,29 @@ public class FoodSlot : MonoBehaviour
 
     public void OnFadeOut()
     {
-        _imgFood.transform.DOLocalMoveY(100f, 0.6f).OnComplete(() => {
+        _imgFood.transform.DOLocalMoveY(100f, 0.6f).OnComplete(() =>
+        {
             this.OnActiveFood(false);
             _imgFood.transform.localPosition = Vector3.zero;
-            });
-        _imgFood.DOColor(new Color(1f,1f,1f,0f), 0.6f);
+        });
+        _imgFood.DOColor(new Color(1f, 1f, 1f, 0f), 0.6f);
     }
 
     public void DoShake()
     {
         _imgFood.transform.DOShakePosition(0.5f, 10f, 10, 180f);
     }
+    public void DoShuffle()
+    {
+        _imgFood.DOFade(0f, 0.5f).OnComplete(() =>
+        {
+            // Sau khi biến mất xong, chờ 0.25s rồi hiện lại
+            _imgFood.DOFade(1f, 0.5f).SetDelay(0.25f);
+        });
+    }
 
     public FoodSlot GetSlotNull => _grillCtrl.GetSlotNull();
 
     public bool HasFood => _imgFood.gameObject.activeInHierarchy && _imgFood.color == _normalColor;
-    public Sprite GetSpriteFood  => _imgFood.sprite;
+    public Sprite GetSpriteFood => _imgFood.sprite;
 }
