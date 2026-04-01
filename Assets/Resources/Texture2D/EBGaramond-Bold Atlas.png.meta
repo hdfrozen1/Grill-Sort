@@ -1,0 +1,2306 @@
+fileFormatVersion: 2
+guid: e30bb08040695094784bae53081e42ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4930089058254362900
+    second: EBGaramond-Bold Atlas_0
+  - first:
+      213: -7638512426416203439
+    second: EBGaramond-Bold Atlas_1
+  - first:
+      213: 5382225377497566110
+    second: EBGaramond-Bold Atlas_2
+  - first:
+      213: -960792124392343483
+    second: EBGaramond-Bold Atlas_3
+  - first:
+      213: -3727479009594891358
+    second: EBGaramond-Bold Atlas_4
+  - first:
+      213: 2040613473336402048
+    second: EBGaramond-Bold Atlas_5
+  - first:
+      213: -3675593976402358528
+    second: EBGaramond-Bold Atlas_6
+  - first:
+      213: -8684653538299922423
+    second: EBGaramond-Bold Atlas_7
+  - first:
+      213: 3069031378072707265
+    second: EBGaramond-Bold Atlas_8
+  - first:
+      213: 1292733869539399598
+    second: EBGaramond-Bold Atlas_9
+  - first:
+      213: -7560365754331567208
+    second: EBGaramond-Bold Atlas_10
+  - first:
+      213: -2728390487816723508
+    second: EBGaramond-Bold Atlas_11
+  - first:
+      213: 9110559920699597433
+    second: EBGaramond-Bold Atlas_12
+  - first:
+      213: -8726553349390130152
+    second: EBGaramond-Bold Atlas_13
+  - first:
+      213: 5372224659374201170
+    second: EBGaramond-Bold Atlas_14
+  - first:
+      213: -7324144638338041569
+    second: EBGaramond-Bold Atlas_15
+  - first:
+      213: 1566964735329783343
+    second: EBGaramond-Bold Atlas_16
+  - first:
+      213: -931243212365693323
+    second: EBGaramond-Bold Atlas_17
+  - first:
+      213: -7655319910246926110
+    second: EBGaramond-Bold Atlas_18
+  - first:
+      213: 9069449684238830215
+    second: EBGaramond-Bold Atlas_19
+  - first:
+      213: -523373138117696610
+    second: EBGaramond-Bold Atlas_20
+  - first:
+      213: -4814310344504243454
+    second: EBGaramond-Bold Atlas_21
+  - first:
+      213: 8854493430653808138
+    second: EBGaramond-Bold Atlas_22
+  - first:
+      213: 6443250853804000046
+    second: EBGaramond-Bold Atlas_23
+  - first:
+      213: -1860024954241617418
+    second: EBGaramond-Bold Atlas_24
+  - first:
+      213: -6344618734828058224
+    second: EBGaramond-Bold Atlas_25
+  - first:
+      213: 8312450958134084683
+    second: EBGaramond-Bold Atlas_26
+  - first:
+      213: -1292534237525010327
+    second: EBGaramond-Bold Atlas_27
+  - first:
+      213: 5560185423005229139
+    second: EBGaramond-Bold Atlas_28
+  - first:
+      213: -3693719282763116713
+    second: EBGaramond-Bold Atlas_29
+  - first:
+      213: -5230711183977910710
+    second: EBGaramond-Bold Atlas_30
+  - first:
+      213: -239670472317802483
+    second: EBGaramond-Bold Atlas_31
+  - first:
+      213: 5371615034733892691
+    second: EBGaramond-Bold Atlas_32
+  - first:
+      213: 3901887489596898231
+    second: EBGaramond-Bold Atlas_33
+  - first:
+      213: -2112993253194973028
+    second: EBGaramond-Bold Atlas_34
+  - first:
+      213: 340353178147397664
+    second: EBGaramond-Bold Atlas_35
+  - first:
+      213: -2399254926712408697
+    second: EBGaramond-Bold Atlas_36
+  - first:
+      213: -5108320167025060837
+    second: EBGaramond-Bold Atlas_37
+  - first:
+      213: 7086496426536458932
+    second: EBGaramond-Bold Atlas_38
+  - first:
+      213: 3847414480132027791
+    second: EBGaramond-Bold Atlas_39
+  - first:
+      213: 4395355268164028806
+    second: EBGaramond-Bold Atlas_40
+  - first:
+      213: -7247458521913013181
+    second: EBGaramond-Bold Atlas_41
+  - first:
+      213: 4121198284745083519
+    second: EBGaramond-Bold Atlas_42
+  - first:
+      213: -4391064265002012799
+    second: EBGaramond-Bold Atlas_43
+  - first:
+      213: 4177686709250175297
+    second: EBGaramond-Bold Atlas_44
+  - first:
+      213: -7757245276833245829
+    second: EBGaramond-Bold Atlas_45
+  - first:
+      213: 8734098851940154703
+    second: EBGaramond-Bold Atlas_46
+  - first:
+      213: -4141611990971246698
+    second: EBGaramond-Bold Atlas_47
+  - first:
+      213: -3622947927264703315
+    second: EBGaramond-Bold Atlas_48
+  - first:
+      213: 4263109931167678056
+    second: EBGaramond-Bold Atlas_49
+  - first:
+      213: -3310840083301615277
+    second: EBGaramond-Bold Atlas_50
+  - first:
+      213: 1142731703153082416
+    second: EBGaramond-Bold Atlas_51
+  - first:
+      213: 226890041152826076
+    second: EBGaramond-Bold Atlas_52
+  - first:
+      213: -6249498555800899483
+    second: EBGaramond-Bold Atlas_53
+  - first:
+      213: -5759836266782594937
+    second: EBGaramond-Bold Atlas_54
+  - first:
+      213: -7421842915802476068
+    second: EBGaramond-Bold Atlas_55
+  - first:
+      213: -5554596243531699029
+    second: EBGaramond-Bold Atlas_56
+  - first:
+      213: 5442818681479488342
+    second: EBGaramond-Bold Atlas_57
+  - first:
+      213: 6926270636788561896
+    second: EBGaramond-Bold Atlas_58
+  - first:
+      213: 7891315944392555861
+    second: EBGaramond-Bold Atlas_59
+  - first:
+      213: -8014222600201077180
+    second: EBGaramond-Bold Atlas_60
+  - first:
+      213: 6292908424051209607
+    second: EBGaramond-Bold Atlas_61
+  - first:
+      213: -9102673255769542998
+    second: EBGaramond-Bold Atlas_62
+  - first:
+      213: -3973711036443463512
+    second: EBGaramond-Bold Atlas_63
+  - first:
+      213: -1355516424173178450
+    second: EBGaramond-Bold Atlas_64
+  - first:
+      213: 9030971523191638541
+    second: EBGaramond-Bold Atlas_65
+  - first:
+      213: 2704332540866276926
+    second: EBGaramond-Bold Atlas_66
+  - first:
+      213: 4404242370284815506
+    second: EBGaramond-Bold Atlas_67
+  - first:
+      213: 3746378990244217486
+    second: EBGaramond-Bold Atlas_68
+  - first:
+      213: -6459052239350965851
+    second: EBGaramond-Bold Atlas_69
+  - first:
+      213: 5795038353756196766
+    second: EBGaramond-Bold Atlas_70
+  - first:
+      213: -3435768794955787969
+    second: EBGaramond-Bold Atlas_71
+  - first:
+      213: -8297881822803577158
+    second: EBGaramond-Bold Atlas_72
+  - first:
+      213: -6998963285976103182
+    second: EBGaramond-Bold Atlas_73
+  - first:
+      213: 2615978733889787304
+    second: EBGaramond-Bold Atlas_74
+  - first:
+      213: 6199577694774657049
+    second: EBGaramond-Bold Atlas_75
+  - first:
+      213: 8053042429103050648
+    second: EBGaramond-Bold Atlas_76
+  - first:
+      213: 6132680879315125803
+    second: EBGaramond-Bold Atlas_77
+  - first:
+      213: 6392028902469806179
+    second: EBGaramond-Bold Atlas_78
+  - first:
+      213: -7673507459521147246
+    second: EBGaramond-Bold Atlas_79
+  - first:
+      213: 2761983267669644400
+    second: EBGaramond-Bold Atlas_80
+  - first:
+      213: -4061825159599857074
+    second: EBGaramond-Bold Atlas_81
+  - first:
+      213: 4655741510595758001
+    second: EBGaramond-Bold Atlas_82
+  - first:
+      213: -3965182089044193550
+    second: EBGaramond-Bold Atlas_83
+  - first:
+      213: -3760800476524793518
+    second: EBGaramond-Bold Atlas_84
+  - first:
+      213: 7454316167663457286
+    second: EBGaramond-Bold Atlas_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4199a44b0e13b6440800000000000000
+      internalID: 4930089058254362900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 463
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591e033b6d8ef590800000000000000
+      internalID: -7638512426416203439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 380
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc5dee67181ba40800000000000000
+      internalID: 5382225377497566110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 380
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f99247a49aa2f0800000000000000
+      internalID: -960792124392343483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 428
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a32f5df695554cc0800000000000000
+      internalID: -3727479009594891358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 382
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080a7127427b15c10800000000000000
+      internalID: 2040613473336402048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 407
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fc8f9a0caadfcc0800000000000000
+      internalID: -3675593976402358528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 404
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9083b44ce99e97780800000000000000
+      internalID: -8684653538299922423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 409
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c02d8627c3679a20800000000000000
+      internalID: 3069031378072707265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7130bea96b0f110800000000000000
+      internalID: 1292733869539399598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 299
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be909276f241790800000000000000
+      internalID: -7560365754331567208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 378
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc321259e4fc22ad0800000000000000
+      internalID: -2728390487816723508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 380
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e5326af53f6e70800000000000000
+      internalID: 9110559920699597433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 298
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8142b18c6fd05e680800000000000000
+      internalID: -8726553349390130152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 368
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259d79b4dd9fd8a40800000000000000
+      internalID: 5372224659374201170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 303
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f197744a1496b5a90800000000000000
+      internalID: -7324144638338041569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 306
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e45e8ef1afeb510800000000000000
+      internalID: 1566964735329783343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 363
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ef2777b3f8313f0800000000000000
+      internalID: -931243212365693323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 363
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8b1cbe917d2c590800000000000000
+      internalID: -7655319910246926110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 331
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a85519f682ddd70800000000000000
+      internalID: 9069449684238830215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 328
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93638167ea9cb8f0800000000000000
+      internalID: -523373138117696610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 324
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b065dbf32203db0800000000000000
+      internalID: -4814310344504243454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 329
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6620bcda71ea70800000000000000
+      internalID: 8854493430653808138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 258
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2348b383860b6950800000000000000
+      internalID: 6443250853804000046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 298
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f011b82ddf26e0800000000000000
+      internalID: -1860024954241617418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 305
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099094b30e263f7a0800000000000000
+      internalID: -6344618734828058224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 221
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44007cea12cb5370800000000000000
+      internalID: 8312450958134084683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 243
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9689a4885feff0ee0800000000000000
+      internalID: -1292534237525010327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 239
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350288fde2fb92d40800000000000000
+      internalID: 5560185423005229139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 303
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc4eae1e54dbcc0800000000000000
+      internalID: -3693719282763116713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 248
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e655444e7c867b0800000000000000
+      internalID: -5230711183977910710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 248
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e85aa9f48cacf0800000000000000
+      internalID: -239670472317802483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 250
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354167ff96fcb8a40800000000000000
+      internalID: 5371615034733892691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 245
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbb6faaff9462630800000000000000
+      internalID: 3901887489596898231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 248
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904482d4d32da2e0800000000000000
+      internalID: -2112993253194973028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020a6a9896d29b400800000000000000
+      internalID: 340353178147397664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 190
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78573bf1b5224bed0800000000000000
+      internalID: -2399254926712408697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 238
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d1858fd99b19b0800000000000000
+      internalID: -5108320167025060837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad7cd34fa485260800000000000000
+      internalID: 7086496426536458932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 238
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85b6ffc513c46530800000000000000
+      internalID: 3847414480132027791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 217
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890f8c24507ffc30800000000000000
+      internalID: 4395355268164028806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 223
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c4ffc7fdadb6b90800000000000000
+      internalID: -7247458521913013181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 162
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0e234100713930800000000000000
+      internalID: 4121198284745083519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 178
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fa4aad05ecf03c0800000000000000
+      internalID: -4391064265002012799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 223
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1413abf7def1af930800000000000000
+      internalID: 4177686709250175297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 166
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7517c6358ab85490800000000000000
+      internalID: -7757245276833245829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 166
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3a0f61a0c53970800000000000000
+      internalID: 8734098851940154703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 164
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69719a066d90686c0800000000000000
+      internalID: -4141611990971246698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 164
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac46ab2e04b8bdc0800000000000000
+      internalID: -3622947927264703315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e70bd35eb992b30800000000000000
+      internalID: 4263109931167678056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 111
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359beae5c788d02d0800000000000000
+      internalID: -3310840083301615277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 140
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0304408fd6ccbdf00800000000000000
+      internalID: 1142731703153082416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 157
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaecf15a43162300800000000000000
+      internalID: 226890041152826076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 138
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560bb2dbc225549a0800000000000000
+      internalID: -6249498555800899483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 160
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788e20aae63f010b0800000000000000
+      internalID: -5759836266782594937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd118d0d031500990800000000000000
+      internalID: -7421842915802476068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 81
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bace291652c1ae2b0800000000000000
+      internalID: -5554596243531699029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 94
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653e176e0c6c88b40800000000000000
+      internalID: 5442818681479488342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 141
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7300c727e0f1060800000000000000
+      internalID: 6926270636788561896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 81
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df4eb9a06938d60800000000000000
+      internalID: 7891315944392555861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 81
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7b1c9103c7c090800000000000000
+      internalID: -8014222600201077180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 83
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b2a3ded6e45750800000000000000
+      internalID: 6292908424051209607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae6863e6eecca180800000000000000
+      internalID: -9102673255769542998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0fcb0bdda8ad8c0800000000000000
+      internalID: -3973711036443463512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 80
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea133f97efc303de0800000000000000
+      internalID: -1355516424173178450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a818090c4745d70800000000000000
+      internalID: 9030971523191638541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 80
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e2dd42e18b78520800000000000000
+      internalID: 2704332540866276926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940d81e9130f1d30800000000000000
+      internalID: 4404242370284815506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 79
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e824e7ba7dfcdf330800000000000000
+      internalID: 3746378990244217486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 60
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95bc7b536dc56a0800000000000000
+      internalID: -6459052239350965851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 77
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f0767edac1c6050800000000000000
+      internalID: 5795038353756196766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31d9460c72b150d0800000000000000
+      internalID: -3435768794955787969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab63f9b327008dc80800000000000000
+      internalID: -8297881822803577158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 81
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6c46739ffaede90800000000000000
+      internalID: -6998963285976103182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a51a756cc2dd4420800000000000000
+      internalID: 2615978733889787304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108a7e0113590650800000000000000
+      internalID: 6199577694774657049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f06d32c6722cf60800000000000000
+      internalID: 8053042429103050648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26886474c8ab1550800000000000000
+      internalID: 6132680879315125803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682ebd9b6c05b850800000000000000
+      internalID: 6392028902469806179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e8eed1f99328590800000000000000
+      internalID: -7673507459521147246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749509f529845620800000000000000
+      internalID: 2761983267669644400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426e4ea98f71a7c0800000000000000
+      internalID: -4061825159599857074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c9199c348c9040800000000000000
+      internalID: 4655741510595758001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe87c006e7d8f8c0800000000000000
+      internalID: -3965182089044193550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251be9564e3fecbc0800000000000000
+      internalID: -3760800476524793518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EBGaramond-Bold Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60418015f0d037760800000000000000
+      internalID: 7454316167663457286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

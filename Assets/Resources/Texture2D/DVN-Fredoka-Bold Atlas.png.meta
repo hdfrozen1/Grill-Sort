@@ -1,0 +1,2931 @@
+fileFormatVersion: 2
+guid: 36942757f32b0d44ba5ed76b1896d760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1409660346495994893
+    second: DVN-Fredoka-Bold Atlas_0
+  - first:
+      213: -4938689801370789002
+    second: DVN-Fredoka-Bold Atlas_1
+  - first:
+      213: 8515039438923955732
+    second: DVN-Fredoka-Bold Atlas_2
+  - first:
+      213: -2835485832417403579
+    second: DVN-Fredoka-Bold Atlas_3
+  - first:
+      213: -4803425022311021417
+    second: DVN-Fredoka-Bold Atlas_4
+  - first:
+      213: 1668359786642019680
+    second: DVN-Fredoka-Bold Atlas_5
+  - first:
+      213: -5928850265815544276
+    second: DVN-Fredoka-Bold Atlas_6
+  - first:
+      213: 8388228637920036468
+    second: DVN-Fredoka-Bold Atlas_7
+  - first:
+      213: -5717391695423723399
+    second: DVN-Fredoka-Bold Atlas_8
+  - first:
+      213: -3815139032671553140
+    second: DVN-Fredoka-Bold Atlas_9
+  - first:
+      213: -5243979261513939752
+    second: DVN-Fredoka-Bold Atlas_10
+  - first:
+      213: 1303223832395089124
+    second: DVN-Fredoka-Bold Atlas_11
+  - first:
+      213: -5505176111046689992
+    second: DVN-Fredoka-Bold Atlas_12
+  - first:
+      213: 940462716989321630
+    second: DVN-Fredoka-Bold Atlas_13
+  - first:
+      213: 2056147223222438888
+    second: DVN-Fredoka-Bold Atlas_14
+  - first:
+      213: 530923269264046819
+    second: DVN-Fredoka-Bold Atlas_15
+  - first:
+      213: 5636986417090384588
+    second: DVN-Fredoka-Bold Atlas_16
+  - first:
+      213: -5887978157588417698
+    second: DVN-Fredoka-Bold Atlas_17
+  - first:
+      213: 6996424644723164935
+    second: DVN-Fredoka-Bold Atlas_18
+  - first:
+      213: 5889559900495275745
+    second: DVN-Fredoka-Bold Atlas_19
+  - first:
+      213: 7655695217352895420
+    second: DVN-Fredoka-Bold Atlas_20
+  - first:
+      213: -5267178988665615174
+    second: DVN-Fredoka-Bold Atlas_21
+  - first:
+      213: -6620657091919076832
+    second: DVN-Fredoka-Bold Atlas_22
+  - first:
+      213: 6542217519260252783
+    second: DVN-Fredoka-Bold Atlas_23
+  - first:
+      213: -6459339906901409224
+    second: DVN-Fredoka-Bold Atlas_24
+  - first:
+      213: -7090893706010839502
+    second: DVN-Fredoka-Bold Atlas_25
+  - first:
+      213: 4674211729801642820
+    second: DVN-Fredoka-Bold Atlas_26
+  - first:
+      213: -5814585049803112900
+    second: DVN-Fredoka-Bold Atlas_27
+  - first:
+      213: 6370478933050938511
+    second: DVN-Fredoka-Bold Atlas_28
+  - first:
+      213: -6678442992315595965
+    second: DVN-Fredoka-Bold Atlas_29
+  - first:
+      213: -1698670223423470962
+    second: DVN-Fredoka-Bold Atlas_30
+  - first:
+      213: -8598286299818623811
+    second: DVN-Fredoka-Bold Atlas_31
+  - first:
+      213: -4691966492963071625
+    second: DVN-Fredoka-Bold Atlas_32
+  - first:
+      213: -6134590862500740023
+    second: DVN-Fredoka-Bold Atlas_33
+  - first:
+      213: -8017646960123676119
+    second: DVN-Fredoka-Bold Atlas_34
+  - first:
+      213: -240864141581954571
+    second: DVN-Fredoka-Bold Atlas_35
+  - first:
+      213: 8981231211946628847
+    second: DVN-Fredoka-Bold Atlas_36
+  - first:
+      213: -5501609770645588944
+    second: DVN-Fredoka-Bold Atlas_37
+  - first:
+      213: 4259268464731336906
+    second: DVN-Fredoka-Bold Atlas_38
+  - first:
+      213: 6296931192228820114
+    second: DVN-Fredoka-Bold Atlas_39
+  - first:
+      213: 1762143833270226287
+    second: DVN-Fredoka-Bold Atlas_40
+  - first:
+      213: -4529702424229000401
+    second: DVN-Fredoka-Bold Atlas_41
+  - first:
+      213: 1392611740856302896
+    second: DVN-Fredoka-Bold Atlas_42
+  - first:
+      213: 8822223997722962686
+    second: DVN-Fredoka-Bold Atlas_43
+  - first:
+      213: -1021025835354764192
+    second: DVN-Fredoka-Bold Atlas_44
+  - first:
+      213: 6080346185057796857
+    second: DVN-Fredoka-Bold Atlas_45
+  - first:
+      213: -7143747959491860618
+    second: DVN-Fredoka-Bold Atlas_46
+  - first:
+      213: 2792732329814575269
+    second: DVN-Fredoka-Bold Atlas_47
+  - first:
+      213: 3520251824268544045
+    second: DVN-Fredoka-Bold Atlas_48
+  - first:
+      213: -7492320537536542352
+    second: DVN-Fredoka-Bold Atlas_49
+  - first:
+      213: -7022577563402353938
+    second: DVN-Fredoka-Bold Atlas_50
+  - first:
+      213: 6064391434605993542
+    second: DVN-Fredoka-Bold Atlas_51
+  - first:
+      213: -8425746754214305492
+    second: DVN-Fredoka-Bold Atlas_52
+  - first:
+      213: -1675516396444653038
+    second: DVN-Fredoka-Bold Atlas_53
+  - first:
+      213: 3107015981990045199
+    second: DVN-Fredoka-Bold Atlas_54
+  - first:
+      213: 2925364248188169038
+    second: DVN-Fredoka-Bold Atlas_55
+  - first:
+      213: 7415306297224367670
+    second: DVN-Fredoka-Bold Atlas_56
+  - first:
+      213: 2583472949931528923
+    second: DVN-Fredoka-Bold Atlas_57
+  - first:
+      213: 3871830402077263962
+    second: DVN-Fredoka-Bold Atlas_58
+  - first:
+      213: 4831912663423605696
+    second: DVN-Fredoka-Bold Atlas_59
+  - first:
+      213: -108590912978473593
+    second: DVN-Fredoka-Bold Atlas_60
+  - first:
+      213: 1891171089207182233
+    second: DVN-Fredoka-Bold Atlas_61
+  - first:
+      213: 8738585459683912783
+    second: DVN-Fredoka-Bold Atlas_62
+  - first:
+      213: 229500750859048447
+    second: DVN-Fredoka-Bold Atlas_63
+  - first:
+      213: -9107688408332357001
+    second: DVN-Fredoka-Bold Atlas_64
+  - first:
+      213: 3587463356659003118
+    second: DVN-Fredoka-Bold Atlas_65
+  - first:
+      213: -700879068887603025
+    second: DVN-Fredoka-Bold Atlas_66
+  - first:
+      213: -1941496647296045132
+    second: DVN-Fredoka-Bold Atlas_67
+  - first:
+      213: 7815905766911714983
+    second: DVN-Fredoka-Bold Atlas_68
+  - first:
+      213: -5750879435034526597
+    second: DVN-Fredoka-Bold Atlas_69
+  - first:
+      213: 657171160134567709
+    second: DVN-Fredoka-Bold Atlas_70
+  - first:
+      213: 1579589464670029470
+    second: DVN-Fredoka-Bold Atlas_71
+  - first:
+      213: 5592629775798852910
+    second: DVN-Fredoka-Bold Atlas_72
+  - first:
+      213: -3007681693781000618
+    second: DVN-Fredoka-Bold Atlas_73
+  - first:
+      213: 8841243980151269259
+    second: DVN-Fredoka-Bold Atlas_74
+  - first:
+      213: -3188867689966992157
+    second: DVN-Fredoka-Bold Atlas_75
+  - first:
+      213: 5432979650856503735
+    second: DVN-Fredoka-Bold Atlas_76
+  - first:
+      213: -3415381300550348227
+    second: DVN-Fredoka-Bold Atlas_77
+  - first:
+      213: -5961260206207662030
+    second: DVN-Fredoka-Bold Atlas_78
+  - first:
+      213: 7931201625789258021
+    second: DVN-Fredoka-Bold Atlas_79
+  - first:
+      213: -9153339309434630962
+    second: DVN-Fredoka-Bold Atlas_80
+  - first:
+      213: 3249933884400341902
+    second: DVN-Fredoka-Bold Atlas_81
+  - first:
+      213: 8540011648609638481
+    second: DVN-Fredoka-Bold Atlas_82
+  - first:
+      213: 8338747071134763632
+    second: DVN-Fredoka-Bold Atlas_83
+  - first:
+      213: -9027179866721559605
+    second: DVN-Fredoka-Bold Atlas_84
+  - first:
+      213: 757306208893708022
+    second: DVN-Fredoka-Bold Atlas_85
+  - first:
+      213: -2574805359940845885
+    second: DVN-Fredoka-Bold Atlas_86
+  - first:
+      213: -9087623086138811781
+    second: DVN-Fredoka-Bold Atlas_87
+  - first:
+      213: 2048786387433023446
+    second: DVN-Fredoka-Bold Atlas_88
+  - first:
+      213: -1888757092764976161
+    second: DVN-Fredoka-Bold Atlas_89
+  - first:
+      213: -3398136061984416532
+    second: DVN-Fredoka-Bold Atlas_90
+  - first:
+      213: -8471268403842652302
+    second: DVN-Fredoka-Bold Atlas_91
+  - first:
+      213: 4855916629755100766
+    second: DVN-Fredoka-Bold Atlas_92
+  - first:
+      213: -7634644542184449176
+    second: DVN-Fredoka-Bold Atlas_93
+  - first:
+      213: -4239352677028446118
+    second: DVN-Fredoka-Bold Atlas_94
+  - first:
+      213: 907024149869303129
+    second: DVN-Fredoka-Bold Atlas_95
+  - first:
+      213: 6318819533407037393
+    second: DVN-Fredoka-Bold Atlas_96
+  - first:
+      213: 5982517441487828504
+    second: DVN-Fredoka-Bold Atlas_97
+  - first:
+      213: -7085454823873025657
+    second: DVN-Fredoka-Bold Atlas_98
+  - first:
+      213: 1282993837834481900
+    second: DVN-Fredoka-Bold Atlas_99
+  - first:
+      213: 6645228429864331438
+    second: DVN-Fredoka-Bold Atlas_100
+  - first:
+      213: 8699675613098079404
+    second: DVN-Fredoka-Bold Atlas_101
+  - first:
+      213: -1235374189564548563
+    second: DVN-Fredoka-Bold Atlas_102
+  - first:
+      213: -2567941011618050067
+    second: DVN-Fredoka-Bold Atlas_103
+  - first:
+      213: 8281563850411880340
+    second: DVN-Fredoka-Bold Atlas_104
+  - first:
+      213: -6275219443980229347
+    second: DVN-Fredoka-Bold Atlas_105
+  - first:
+      213: 5519586803085980340
+    second: DVN-Fredoka-Bold Atlas_106
+  - first:
+      213: 7750440575684862261
+    second: DVN-Fredoka-Bold Atlas_107
+  - first:
+      213: 5003239123552434148
+    second: DVN-Fredoka-Bold Atlas_108
+  - first:
+      213: -4648272524441120752
+    second: DVN-Fredoka-Bold Atlas_109
+  - first:
+      213: 1045081438279256947
+    second: DVN-Fredoka-Bold Atlas_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f6213261ef6ce0800000000000000
+      internalID: -1409660346495994893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 569
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b137dbacf367bb0800000000000000
+      internalID: -4938689801370789002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 644
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef08d414f7b2670800000000000000
+      internalID: 8515039438923955732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 539
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d9b1198a456a8d0800000000000000
+      internalID: -2835485832417403579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 613
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794cdef446ec65db0800000000000000
+      internalID: -4803425022311021417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 601
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0651858f264372710800000000000000
+      internalID: 1668359786642019680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e859b781e78bda0800000000000000
+      internalID: -5928850265815544276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 521
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4768bf1e089f86470800000000000000
+      internalID: 8388228637920036468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 468
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97820888b8eb7a0b0800000000000000
+      internalID: -5717391695423723399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 487
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8972e46347ed0bc0800000000000000
+      internalID: -3815139032671553140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 514
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d442fb35a4a937b0800000000000000
+      internalID: -5243979261513939752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 510
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e48bb8bb2bf51210800000000000000
+      internalID: 1303223832395089124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 485
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b7813ae7fa993b0800000000000000
+      internalID: -5505176111046689992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 518
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b5aabbd13d0d00800000000000000
+      internalID: 940462716989321630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 526
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb441e6107e88c10800000000000000
+      internalID: 2056147223222438888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 550
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf87386e73e5700800000000000000
+      internalID: 530923269264046819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 516
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2df52c7499a3e40800000000000000
+      internalID: 5636986417090384588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 517
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53feafbf03b94ea0800000000000000
+      internalID: -5887978157588417698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 557
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707438e452b481160800000000000000
+      internalID: 6996424644723164935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 452
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e768768bebb150800000000000000
+      internalID: 5889559900495275745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe9f21d3e7e3a60800000000000000
+      internalID: 7655695217352895420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 434
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4f24dd9837e6b0800000000000000
+      internalID: -5267178988665615174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 381
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0222e70e373be14a0800000000000000
+      internalID: -6620657091919076832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 468
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a38deeb20aaca50800000000000000
+      internalID: 6542217519260252783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 404
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83203a5e390db56a0800000000000000
+      internalID: -6459339906901409224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 430
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236bb295eb5189d90800000000000000
+      internalID: -7090893706010839502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 424
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4438acf9dc22ed040800000000000000
+      internalID: 4674211729801642820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 402
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e303644b17e4fa0800000000000000
+      internalID: -5814585049803112900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 453
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845c9d56dc786850800000000000000
+      internalID: 6370478933050938511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 413
+        width: 47
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343055e7b776153a0800000000000000
+      internalID: -6678442992315595965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 442
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e828f468e6c1d68e0800000000000000
+      internalID: -1698670223423470962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 467
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcf33e7a20cca880800000000000000
+      internalID: -8598286299818623811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 381
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77996e07559c2eeb0800000000000000
+      internalID: -4691966492963071625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 400
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944494eec1e8ddaa0800000000000000
+      internalID: -6134590862500740023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 433
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a765fa1989bb090800000000000000
+      internalID: -8017646960123676119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1d0e1e65748acf0800000000000000
+      internalID: -240864141581954571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 351
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6dab1e33eb3ac70800000000000000
+      internalID: 8981231211946628847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 321
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034f9d7ff0b56a3b0800000000000000
+      internalID: -5501609770645588944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 333
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b5532a16fb1b30800000000000000
+      internalID: 4259268464731336906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 338
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29430e78e81336750800000000000000
+      internalID: 6296931192228820114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 309
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d8739ea74647810800000000000000
+      internalID: 1762143833270226287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 402
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bca9105a34321c0800000000000000
+      internalID: -4529702424229000401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 309
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d37cbfffc835310800000000000000
+      internalID: 1392611740856302896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 318
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa2439dbf5de6a70800000000000000
+      internalID: 8822223997722962686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 349
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cce21996694d1f0800000000000000
+      internalID: -1021025835354764192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 347
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f285c7e3aab16450800000000000000
+      internalID: 6080346185057796857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 347
+        width: 47
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677e09d741f4cdc90800000000000000
+      internalID: -7143747959491860618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8c857e147c1c620800000000000000
+      internalID: 2792732329814575269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 267
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28827112627ad030800000000000000
+      internalID: 3520251824268544045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 260
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07945c8ca2ee50890800000000000000
+      internalID: -7492320537536542352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 316
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee246cdc9eaca8e90800000000000000
+      internalID: -7022577563402353938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 251
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9c9611eb092450800000000000000
+      internalID: 6064391434605993542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 237
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e7a3f7fbb11b80800000000000000
+      internalID: -8425746754214305492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 250
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ae296f6be5fb8e0800000000000000
+      internalID: -1675516396444653038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 252
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f066afde2965e1b20800000000000000
+      internalID: 3107015981990045199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 235
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b22e3d84bf89820800000000000000
+      internalID: 2925364248188169038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 255
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e86c21ac578e660800000000000000
+      internalID: 7415306297224367670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 295
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2df7bc5f65ad320800000000000000
+      internalID: 2583472949931528923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 317
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a588f52ac318bb530800000000000000
+      internalID: 3871830402077263962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 233
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb531187f66e0340800000000000000
+      internalID: 4831912663423605696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 262
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d2516d3253e7ef0800000000000000
+      internalID: -108590912978473593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993cea5f51ace3a10800000000000000
+      internalID: 1891171089207182233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 183
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c6ad33d21b54970800000000000000
+      internalID: 8738585459683912783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 168
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff593aa87b95f2300800000000000000
+      internalID: 229500750859048447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 168
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723860b5adfa9180800000000000000
+      internalID: -9107688408332357001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 153
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeee36a6aea39c130800000000000000
+      internalID: 3587463356659003118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 164
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8a274433af546f0800000000000000
+      internalID: -700879068887603025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 168
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfae45f51b6e05e0800000000000000
+      internalID: -1941496647296045132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 203
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a623b272eca77c60800000000000000
+      internalID: 7815905766911714983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 219
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cfaa09f95c030b0800000000000000
+      internalID: -5750879435034526597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 152
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17c37430bdbe1900800000000000000
+      internalID: 657171160134567709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 170
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e964b94cf34dbe510800000000000000
+      internalID: 1579589464670029470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 234
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d53ca66230d9d40800000000000000
+      internalID: 5592629775798852910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 151
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65efcb45f619246d0800000000000000
+      internalID: -3007681693781000618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 168
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b872a799e8862ba70800000000000000
+      internalID: 8841243980151269259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 169
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e40cc73bbddeb3d0800000000000000
+      internalID: -3188867689966992157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b94a311532d56b40800000000000000
+      internalID: 5432979650856503735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 100
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325f287dc02a90d0800000000000000
+      internalID: -3415381300550348227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 83
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23802533d69554da0800000000000000
+      internalID: -5961260206207662030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 153
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295b2b7bd9411e60800000000000000
+      internalID: 7931201625789258021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 84
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc8780056ec8f080800000000000000
+      internalID: -9153339309434630962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 168
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83103326a51a1d20800000000000000
+      internalID: 3249933884400341902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 84
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1585315f857348670800000000000000
+      internalID: 8540011648609638481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 153
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a01d6d74e29b370800000000000000
+      internalID: 8338747071134763632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 85
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd0804db309b280800000000000000
+      internalID: -9027179866721559605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 83
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ae4f0cfd728a00800000000000000
+      internalID: 757306208893708022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 83
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce34f2ca24744cd0800000000000000
+      internalID: -2574805359940845885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a9e0293f642e180800000000000000
+      internalID: -9087623086138811781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 33
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e99b4d50ce6c10800000000000000
+      internalID: 2048786387433023446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb7eb26e69c9c5e0800000000000000
+      internalID: -1888757092764976161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec59f6714567d0d0800000000000000
+      internalID: -3398136061984416532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e7f7f442007a80800000000000000
+      internalID: -8471268403842652302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ef67f627ea36340800000000000000
+      internalID: 4855916629755100766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 67
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b98bc2d3b4c0690800000000000000
+      internalID: -7634644542184449176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 81
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504e18833bca25c0800000000000000
+      internalID: -4239352677028446118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95519af98a5669c00800000000000000
+      internalID: 907024149869303129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a68813e4f0b750800000000000000
+      internalID: 6318819533407037393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 84
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f5729aeb260350800000000000000
+      internalID: 5982517441487828504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 67
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78968f6c0686bad90800000000000000
+      internalID: -7085454823873025657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 65
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b321191c1ec110800000000000000
+      internalID: 1282993837834481900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e36d8c08983c50800000000000000
+      internalID: 6645228429864331438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 65
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4f6d390e47bb870800000000000000
+      internalID: 8699675613098079404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aa15a48b11bdee0800000000000000
+      internalID: -1235374189564548563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def49566147dc5cd0800000000000000
+      internalID: -2567941011618050067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f2480c1760ee270800000000000000
+      internalID: 8281563850411880340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d152fe9c921f9e8a0800000000000000
+      internalID: -6275219443980229347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2bfd014f2899c40800000000000000
+      internalID: 5519586803085980340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5316876d3a81f8b60800000000000000
+      internalID: 7750440575684862261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7fdad79731f6540800000000000000
+      internalID: 5003239123552434148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0109a7144c40e7fb0800000000000000
+      internalID: -4648272524441120752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DVN-Fredoka-Bold Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b4df1f700e08e00800000000000000
+      internalID: 1045081438279256947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

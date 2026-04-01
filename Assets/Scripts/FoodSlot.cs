@@ -20,7 +20,12 @@ public class FoodSlot : MonoBehaviour
         _grillCtrl = this.transform.parent.parent.GetComponent<GrillStation>();
     }
 
-
+    public void OnClearSlot()
+    {
+        _imgFood.gameObject.SetActive(false);
+        _imgFood.sprite = null;
+        _imgFood.color = _normalColor;
+    }
     public void OnSetSlot(Sprite spr)
     {
         _imgFood.gameObject.SetActive(true);

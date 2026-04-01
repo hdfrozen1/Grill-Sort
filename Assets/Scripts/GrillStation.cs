@@ -75,7 +75,19 @@ public class GrillStation : MonoBehaviour
         }
 
     }
-
+    public void OnClearGrill()
+    {
+        for (int i = 0; i < _totalSlot.Count; i++)
+        {
+            _totalSlot[i].OnClearSlot();
+        }
+        for (int i = 0; i < _totalTrays.Count; i++)
+        {
+            _totalTrays[i].OnClearTray();
+            _totalTrays[i].gameObject.SetActive(false);
+        }
+        _stackTrays.Clear();
+    }
     private FoodSlot RandomSlot()
     {
     reRand: int n = Random.Range(0, _totalSlot.Count);

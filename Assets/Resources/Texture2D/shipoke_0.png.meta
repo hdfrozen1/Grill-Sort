@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: fd6964d364b1cb9478d7725c493cc938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6560558744662290391
+    second: shipoke_0_0
+  - first:
+      213: -8554941371618800242
+    second: shipoke_0_1
+  - first:
+      213: -4648009333582588688
+    second: shipoke_0_2
+  - first:
+      213: 8953386554317160959
+    second: shipoke_0_3
+  - first:
+      213: 1635658845519158301
+    second: shipoke_0_4
+  - first:
+      213: 3362549078029119522
+    second: shipoke_0_5
+  - first:
+      213: -2790742785101981295
+    second: shipoke_0_6
+  - first:
+      213: -18094323356373979
+    second: shipoke_0_7
+  - first:
+      213: 4487685123519960436
+    second: shipoke_0_8
+  - first:
+      213: 1954816493219502433
+    second: shipoke_0_9
+  - first:
+      213: 1783783615630064224
+    second: shipoke_0_10
+  - first:
+      213: -4922652925733373927
+    second: shipoke_0_11
+  - first:
+      213: 1870963857529732635
+    second: shipoke_0_12
+  - first:
+      213: -9097517148471560806
+    second: shipoke_0_13
+  - first:
+      213: 336873176768572694
+    second: shipoke_0_14
+  - first:
+      213: -1489203075621381273
+    second: shipoke_0_15
+  - first:
+      213: 5664405501804184381
+    second: shipoke_0_16
+  - first:
+      213: -2330540416968180323
+    second: shipoke_0_17
+  - first:
+      213: -2981440675597695455
+    second: shipoke_0_18
+  - first:
+      213: 6616069970720705573
+    second: shipoke_0_19
+  - first:
+      213: -7358143452371589097
+    second: shipoke_0_20
+  - first:
+      213: -6351667761089217108
+    second: shipoke_0_21
+  - first:
+      213: 6050386475376541114
+    second: shipoke_0_22
+  - first:
+      213: 915020212780585474
+    second: shipoke_0_23
+  - first:
+      213: 658064847689693565
+    second: shipoke_0_24
+  - first:
+      213: -1357244615158085735
+    second: shipoke_0_25
+  - first:
+      213: -5919233881471822789
+    second: shipoke_0_26
+  - first:
+      213: -2196255860048889297
+    second: shipoke_0_27
+  - first:
+      213: 1046158981993297288
+    second: shipoke_0_28
+  - first:
+      213: -8726770149186243356
+    second: shipoke_0_29
+  - first:
+      213: -5378888808559929748
+    second: shipoke_0_30
+  - first:
+      213: -7011062027290357556
+    second: shipoke_0_31
+  - first:
+      213: 1442201975246270634
+    second: shipoke_0_32
+  - first:
+      213: -6568539669534911591
+    second: shipoke_0_33
+  - first:
+      213: 8013239593240646919
+    second: shipoke_0_34
+  - first:
+      213: -3432723869306747736
+    second: shipoke_0_35
+  - first:
+      213: -566020823112875817
+    second: shipoke_0_36
+  - first:
+      213: -7866596014736716994
+    second: shipoke_0_37
+  - first:
+      213: 5508779401629077320
+    second: shipoke_0_38
+  - first:
+      213: -4388363698372710718
+    second: shipoke_0_39
+  - first:
+      213: 8236239653053691934
+    second: shipoke_0_40
+  - first:
+      213: 6276235615397784593
+    second: shipoke_0_41
+  - first:
+      213: 3548469260326710090
+    second: shipoke_0_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shipoke_0_0
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1872
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfadaf3b69cb0b50800000000000000
+      internalID: 6560558744662290391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1842
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d4e56062eb64980800000000000000
+      internalID: -8554941371618800242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_2
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1635
+        width: 558
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41c172324fe7fb0800000000000000
+      internalID: -4648009333582588688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 404
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff145d252a1d04c70800000000000000
+      internalID: 8953386554317160959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1412
+        width: 405
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c15eccd0703b610800000000000000
+      internalID: 1635658845519158301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1716
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203eb7229c2aae20800000000000000
+      internalID: 3362549078029119522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1521
+        width: 448
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991382193a4549d0800000000000000
+      internalID: -2790742785101981295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1640
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c64eb0f47bfbff0800000000000000
+      internalID: -18094323356373979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1574
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4755633d7d5774e30800000000000000
+      internalID: 4487685123519960436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_9
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1496
+        width: 122
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1695c675e37e02b10800000000000000
+      internalID: 1954816493219502433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_10
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1265
+        width: 432
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06abacd5fb541c810800000000000000
+      internalID: 1783783615630064224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 1013
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ff11de393fabb0800000000000000
+      internalID: -4922652925733373927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_12
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1139
+        width: 320
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e77a337bff6f910800000000000000
+      internalID: 1870963857529732635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_13
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 474
+        width: 476
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f35baa502fb180800000000000000
+      internalID: -9097517148471560806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_14
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 920
+        width: 388
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de5a39e50dca400800000000000000
+      internalID: 336873176768572694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 324
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b1b2f51b9455be0800000000000000
+      internalID: -1489203075621381273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 698
+        width: 325
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d338ec6eac20c9e40800000000000000
+      internalID: 5664405501804184381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 870
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dbbe7a6d148afd0800000000000000
+      internalID: -2330540416968180323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 720
+        width: 434
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126491c708bcf96d0800000000000000
+      internalID: -2981440675597695455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_19
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 599
+        width: 338
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ccfedb59001db50800000000000000
+      internalID: 6616069970720705573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 809
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186603e38f92e990800000000000000
+      internalID: -7358143452371589097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 918
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadf9f8e2d75ad7a0800000000000000
+      internalID: -6351667761089217108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 430
+        width: 331
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd75aa617a47f350800000000000000
+      internalID: 6050386475376541114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 274
+        width: 206
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d619190ec2bc00800000000000000
+      internalID: 915020212780585474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_24
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 291
+        width: 207
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7937bd0e7ae12900800000000000000
+      internalID: 658064847689693565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_25
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 316
+        width: 207
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997c038a6391a2de0800000000000000
+      internalID: -1357244615158085735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_26
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 335
+        width: 304
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345a607528aadda0800000000000000
+      internalID: -5919233881471822789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 255
+        width: 207
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a7ae97ee45581e0800000000000000
+      internalID: -2196255860048889297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_28
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 140
+        width: 180
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857b442d04b48e00800000000000000
+      internalID: 1046158981993297288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_29
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 155
+        width: 223
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4754529c844e680800000000000000
+      internalID: -8726770149186243356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_30
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 154
+        width: 166
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66167f80295a55b0800000000000000
+      internalID: -5378888808559929748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_31
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 75
+        width: 225
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d02d7b34b3be90800000000000000
+      internalID: -7011062027290357556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 225
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bbec2e0bb30410800000000000000
+      internalID: 1442201975246270634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 110
+        width: 226
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9935f40e8fbd7d4a0800000000000000
+      internalID: -6568539669534911591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_34
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 112
+        width: 225
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705543f34feb43f60800000000000000
+      internalID: 8013239593240646919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_35
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 131
+        width: 225
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a487f504d38c50d0800000000000000
+      internalID: -3432723869306747736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 244
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d002ee6f071528f0800000000000000
+      internalID: -566020823112875817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 936
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4d168a9c34d290800000000000000
+      internalID: -7866596014736716994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 158
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f0714ddad137c40800000000000000
+      internalID: 5508779401629077320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce664587766913c0800000000000000
+      internalID: -4388363698372710718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 662
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e187045b3500d4270800000000000000
+      internalID: 8236239653053691934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_41
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca07e0a0ba91750800000000000000
+      internalID: 6276235615397784593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipoke_0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4baa2eddf1be3130800000000000000
+      internalID: 3548469260326710090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

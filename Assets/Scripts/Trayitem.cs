@@ -15,12 +15,26 @@ public class Trayitem : MonoBehaviour
         for (int i = 0; i < _foodList.Count; i++)
             _foodList[i].gameObject.SetActive(false);
     }
+    public void OnClearTray()
+    {
+        // 1. Kiểm tra xem list đã được khởi tạo chưa
+        if (_foodList == null) return;
 
+        for (int i = 0; i < _foodList.Count; i++)
+        {
+            // 2. Kiểm tra phần tử i có tồn tại không (đề phòng bị Destroy)
+            if (_foodList[i] != null)
+            {
+                _foodList[i].gameObject.SetActive(false);
+                _foodList[i].sprite = null;
+            }
+        }
+    }
     public void OnSetFood(List<Sprite> items)
     {
-        if(items.Count <= _foodList.Count)
+        if (items.Count <= _foodList.Count)
         {
-            for(int i = 0; i < items.Count; i++)
+            for (int i = 0; i < items.Count; i++)
             {
                 Image slot = this.RandomSlot();
                 slot.gameObject.SetActive(true);

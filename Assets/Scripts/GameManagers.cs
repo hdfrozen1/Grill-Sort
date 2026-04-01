@@ -48,6 +48,15 @@ public class GameManagers : MonoBehaviour
         {
             OnAddMoreGrill();
         }
+        else if (Input.GetKeyDown(KeyCode.R))
+        {
+            OnRefreshLevel();
+        }
+        else if (Input.GetKeyDown(KeyCode.N))
+        {
+            OnInitLevel();
+        }
+
     }
 
     private void OnInitLevel()
@@ -82,7 +91,14 @@ public class GameManagers : MonoBehaviour
         }
 
     }
-
+    private void OnRefreshLevel()
+    {
+        for (int i = 0; i < _listGrills.Count; i++)
+        {
+            _listGrills[i].OnClearGrill();
+            _listGrills[i].gameObject.SetActive(false);
+        }
+    }
     private List<int> DistributeEvelyn(int grillCount,int totalTrays)
     {
         List<int> result = new List<int>();
