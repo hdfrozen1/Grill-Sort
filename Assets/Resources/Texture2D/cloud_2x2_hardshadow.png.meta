@@ -923,7 +923,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cloud_2x2_hardshadow_0: -8609001201275301849
+      cloud_2x2_hardshadow_1: -8086263830969716640
+      cloud_2x2_hardshadow_10: 10044891572388265
+      cloud_2x2_hardshadow_11: 6866661488443967921
+      cloud_2x2_hardshadow_12: 9143592733370865154
+      cloud_2x2_hardshadow_13: 7369254190421996825
+      cloud_2x2_hardshadow_14: -1644810541162896428
+      cloud_2x2_hardshadow_15: -1389805748632037587
+      cloud_2x2_hardshadow_16: 6566123483096634662
+      cloud_2x2_hardshadow_17: -3406280707296528957
+      cloud_2x2_hardshadow_18: -2517022618633473081
+      cloud_2x2_hardshadow_19: 8277652916041346051
+      cloud_2x2_hardshadow_2: -4498076579431401910
+      cloud_2x2_hardshadow_20: -4640019945856286995
+      cloud_2x2_hardshadow_21: -9058806570752633438
+      cloud_2x2_hardshadow_22: 6786192820334996238
+      cloud_2x2_hardshadow_23: -971323261853025333
+      cloud_2x2_hardshadow_24: 7295970391059104036
+      cloud_2x2_hardshadow_25: -5323813930764730641
+      cloud_2x2_hardshadow_26: 8334165886376543071
+      cloud_2x2_hardshadow_27: -6511573047820240745
+      cloud_2x2_hardshadow_28: 6577006118327292726
+      cloud_2x2_hardshadow_29: -4761930580189351552
+      cloud_2x2_hardshadow_3: -6699590549960337007
+      cloud_2x2_hardshadow_30: 1248179520807297049
+      cloud_2x2_hardshadow_4: 1190087615929659689
+      cloud_2x2_hardshadow_5: 1741581686813618568
+      cloud_2x2_hardshadow_6: 8506476696514144597
+      cloud_2x2_hardshadow_7: -8362901723363973307
+      cloud_2x2_hardshadow_8: -4731440706959245179
+      cloud_2x2_hardshadow_9: -4881150774772843627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

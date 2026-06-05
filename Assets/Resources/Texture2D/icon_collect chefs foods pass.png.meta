@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_collect chefs foods pass_0: 1219583572159234547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

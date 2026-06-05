@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_beat levels_0: 5040251536027646640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

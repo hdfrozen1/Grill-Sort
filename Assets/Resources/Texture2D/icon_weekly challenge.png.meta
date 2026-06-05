@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_weekly challenge_0: 8383780406151970821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

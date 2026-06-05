@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_chest_1_0: 3201244057469028
+      icon_chest_1_1: -7765125216128340463
+      icon_chest_1_2: -377718258053476862
+      icon_chest_1_3: -9117128667307802187
+      icon_chest_1_4: -5595428745415279433
+      icon_chest_1_5: 6393706577519569020
+      icon_chest_1_6: -6650665880727604009
+      icon_chest_1_7: 3046829164036698250
+      icon_chest_1_8: 4735928839719948381
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      popup_blackfriday2_0: -5464750418384366214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

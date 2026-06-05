@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Popup Halloween_0: -717255987057747456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

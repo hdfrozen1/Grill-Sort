@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shape_half_rr_500x250_down_0: -3472054752858368526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

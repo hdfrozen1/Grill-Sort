@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      palette-downwell_0: 2051305646232511081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

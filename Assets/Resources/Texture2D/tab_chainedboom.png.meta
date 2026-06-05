@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tab_chainedboom_0: 838713204464588264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

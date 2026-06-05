@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      banner_star_chest_0: 4767623108444477346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

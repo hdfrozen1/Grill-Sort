@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toast_BG_24px_0: -943745333133351085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

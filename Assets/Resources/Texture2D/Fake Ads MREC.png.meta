@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fake Ads MREC_0: -1324819544669124770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_blackfriday_0: 3761767788318243108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

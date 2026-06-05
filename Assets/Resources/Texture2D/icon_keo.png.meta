@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_keo_0: 3215248261218672319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

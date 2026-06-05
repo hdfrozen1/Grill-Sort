@@ -4,11 +4,14 @@ using System.Linq;
 using System.Collections;
 using UnityEngine.UI;
 using DG.Tweening;
+using System;
 
 public class GameManagers : MonoBehaviour
 {
     private static GameManagers _instance;
     public static GameManagers Instance => _instance;
+    public event Action<bool> OnGameFinish;
+    public bool IsBusy = false;
 
     [SerializeField] private int _allFood;
     [SerializeField] private int _totalFood; // tong so loai thuc an
@@ -33,7 +36,7 @@ public class GameManagers : MonoBehaviour
 
     void Start()
     {
-        OnInitLevel();
+        //OnInitLevel();
     }
     void Update()
     {
@@ -58,10 +61,18 @@ public class GameManagers : MonoBehaviour
         }
 
     }
-
+    public void InitLevel(LevelData levelData)
+    {
+        this._allFood = levelData.AllFood;
+        this._totalFood = levelData.TotalFood;
+        this._totalGrill = levelData.TotalGrill;
+        OnRefreshLevel();
+        OnInitLevel();
+    }
     private void OnInitLevel()
     {
-        List<Sprite> takeFood = _totalSpriteFood.OrderBy(x => Random.value).Take(_totalFood).ToList();//
+        IsBusy = true;
+        List<Sprite> takeFood = _totalSpriteFood.OrderBy(x => UnityEngine.Random.value).Take(_totalFood).ToList();//
         List<Sprite> useFood = new List<Sprite>();
 
         for (int i = 0; i < _allFood; i++)
@@ -71,7 +82,7 @@ public class GameManagers : MonoBehaviour
                 useFood.Add(takeFood[n]);
         }
 
-        _avgTray = Random.Range(1.4f, 2f);
+        _avgTray = UnityEngine.Random.Range(1.4f, 2f);
         int totalTray = Mathf.RoundToInt(useFood.Count / _avgTray);// tinh tong so dia
 
         List<int> trayPerGrill = this.DistributeEvelyn(_totalGrill, totalTray);
@@ -89,7 +100,7 @@ public class GameManagers : MonoBehaviour
                 
             }
         }
-
+        IsBusy = false;
     }
     private void OnRefreshLevel()
     {
@@ -120,7 +131,7 @@ public class GameManagers : MonoBehaviour
         // dao vi tri
         for(int i = 0; i < result.Count; i++)
         {
-            int rand = Random.Range(i, result.Count);
+            int rand = UnityEngine.Random.Range(i, result.Count);
             (result[i], result[rand]) = (result[rand], result[i]);
         }
 
@@ -133,6 +144,7 @@ public class GameManagers : MonoBehaviour
         if(_allFood <= 0)
         {
             Debug.Log("Game Completeeeeee");
+            OnGameFinish?.Invoke(true);
         }
     }
 
@@ -232,7 +244,7 @@ public class GameManagers : MonoBehaviour
                         imgDummy.color = new Color(1, 1, 1, 1);
 
                         Vector3 mid = (imgDummy.transform.position + _magnetFX.position) / 2f;
-                        mid += new Vector3(Random.Range(-2, 2), Random.Range(-2, 2), 0);
+                        mid += new Vector3(UnityEngine.Random.Range(-2, 2), UnityEngine.Random.Range(-2, 2), 0);
                         Vector3[] path = new Vector3[] { imgDummy.transform.position, mid, _magnetFX.position };
 
                         Sequence seq = DOTween.Sequence();
@@ -272,7 +284,7 @@ public class GameManagers : MonoBehaviour
             yield return new WaitForSeconds(0.25f);
             for (int i = 0; i < result.Count; i++)
             {
-                int n = Random.Range(0, result.Count);
+                int n = UnityEngine.Random.Range(0, result.Count);
                 Sprite tmp = result[i].sprite;
                 result[i].sprite = result[n].sprite;
                 result[n].sprite = tmp;

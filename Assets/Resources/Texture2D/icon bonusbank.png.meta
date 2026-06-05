@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon bonusbank_0: -5778607795258422758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

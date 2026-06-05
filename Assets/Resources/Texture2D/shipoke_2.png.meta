@@ -773,7 +773,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shipoke_2_0: 1950396801293357690
+      shipoke_2_1: 4416522112717567407
+      shipoke_2_10: -3938010338664469678
+      shipoke_2_11: -6168650328126074677
+      shipoke_2_12: -7081199721792719580
+      shipoke_2_13: 3726415098689143438
+      shipoke_2_14: 508595834879562468
+      shipoke_2_15: -6946168668228097592
+      shipoke_2_16: 6661525368568813747
+      shipoke_2_17: -6175969315231265333
+      shipoke_2_18: -8251781990746949436
+      shipoke_2_19: -88005696946475924
+      shipoke_2_2: -4526634426108896401
+      shipoke_2_20: 6702344434272778707
+      shipoke_2_21: 1830250492364334778
+      shipoke_2_22: 8114270326651743100
+      shipoke_2_23: -4205628729833975489
+      shipoke_2_24: -1760823874396928337
+      shipoke_2_3: 6994570850933610388
+      shipoke_2_4: 25723988491657760
+      shipoke_2_5: 6637621541692965484
+      shipoke_2_6: 8446430622488103087
+      shipoke_2_7: 6475716134614735183
+      shipoke_2_8: -4718200064017007267
+      shipoke_2_9: 7666129350650970016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

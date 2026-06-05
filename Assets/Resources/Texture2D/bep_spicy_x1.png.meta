@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bep_spicy_x1_0: 2929130316828033120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_sweetpass_3_0: 3701966862594676477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

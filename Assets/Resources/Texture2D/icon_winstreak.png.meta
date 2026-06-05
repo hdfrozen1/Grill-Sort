@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_winstreak_0: -7673188766970364489
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

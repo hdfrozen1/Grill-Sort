@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BG_winstreak_0: 4015595644752428727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

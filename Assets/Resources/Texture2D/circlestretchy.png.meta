@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      circlestretchy_0: 7010656177705368091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

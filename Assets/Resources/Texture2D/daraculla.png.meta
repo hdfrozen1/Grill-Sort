@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      daraculla_0: -1512369010330634193
+      daraculla_1: 5721506993329405087
+      daraculla_2: 210673249024209953
+      daraculla_3: 8112345980714146039
+      daraculla_4: -2153181534372869194
+      daraculla_5: 6089058834407065345
+      daraculla_6: -4560361304838423090
+      daraculla_7: -681673650681239778
+      daraculla_8: 7083861571862324892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

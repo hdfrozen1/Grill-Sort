@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fake Ads Banner_0: 492491546909468650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

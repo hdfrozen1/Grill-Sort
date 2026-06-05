@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      halloween_3_AI_Fixed_UpScaled_0: 4101468179405053086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

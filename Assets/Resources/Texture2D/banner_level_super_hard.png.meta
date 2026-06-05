@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      banner_level_super_hard_0: -2129440745701144251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

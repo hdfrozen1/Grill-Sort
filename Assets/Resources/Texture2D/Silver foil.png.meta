@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Silver foil_0: -8820363194556102686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

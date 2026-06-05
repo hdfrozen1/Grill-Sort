@@ -698,7 +698,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magic_orb_0: -6371979598999901399
+      magic_orb_1: -3199080173746039769
+      magic_orb_10: 4936089547347562055
+      magic_orb_11: -1981374241402923220
+      magic_orb_12: 375403926070135017
+      magic_orb_13: -2625908457689494690
+      magic_orb_14: -7977896262089960198
+      magic_orb_15: 2849454165366154554
+      magic_orb_16: 21708321945895496
+      magic_orb_17: 3067537513140500791
+      magic_orb_18: -3255455631337167678
+      magic_orb_19: -4044197053239446185
+      magic_orb_2: -7773283381192118271
+      magic_orb_20: 7848860352350795094
+      magic_orb_21: 8909152568361022269
+      magic_orb_3: 6103068681846466498
+      magic_orb_4: -4170517366966889542
+      magic_orb_5: 7406651334910421020
+      magic_orb_6: -7048839673746629137
+      magic_orb_7: -3264440205174063363
+      magic_orb_8: -2847492892407666131
+      magic_orb_9: 2676129962530888696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

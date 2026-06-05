@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_home_thanksgiving_0: 7258127886708651120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

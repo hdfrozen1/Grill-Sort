@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tab_sweetpass_6_0: -1472127222468490985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

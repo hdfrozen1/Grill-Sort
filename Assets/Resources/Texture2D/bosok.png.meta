@@ -573,7 +573,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bosok_0: 6118698971348300767
+      bosok_1: -6244471955573659409
+      bosok_10: 7386622147763139958
+      bosok_11: -1026123994061651672
+      bosok_12: -1620330671248151762
+      bosok_13: -6157194836151059795
+      bosok_14: -2023232432461024092
+      bosok_15: -816895734121557917
+      bosok_16: -7422157548096457369
+      bosok_2: 1329884171138048974
+      bosok_3: 2980403773995023208
+      bosok_4: 3701136819187469464
+      bosok_5: -7191443846557568649
+      bosok_6: 7669613500390160562
+      bosok_7: -8322994200238661858
+      bosok_8: 3650276237177469843
+      bosok_9: -6220484583923793080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

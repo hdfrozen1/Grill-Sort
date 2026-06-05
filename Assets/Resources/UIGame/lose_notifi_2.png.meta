@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lose_notifi_2_0: 2357376744263807590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

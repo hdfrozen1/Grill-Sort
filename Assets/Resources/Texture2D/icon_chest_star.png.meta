@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_chest_star_0: -4023243728424960976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

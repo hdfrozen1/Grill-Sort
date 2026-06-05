@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BG_foodspass_2_0: 961857893327561494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

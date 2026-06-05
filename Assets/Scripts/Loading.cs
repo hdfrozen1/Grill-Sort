@@ -9,7 +9,7 @@ public class Loading : MonoBehaviour
     void Start()
     {
         DontDestroyOnLoad(this.gameObject);
-
+        StartCoroutine(LoadAsyncScene());
         
     }
 

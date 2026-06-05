@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Btn_Rectangle03_Green_0: -7661286999953934135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

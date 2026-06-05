@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_battle_pass_0: -7975615163312862536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

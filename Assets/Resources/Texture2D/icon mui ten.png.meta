@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon mui ten_0: 7141304012169593131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

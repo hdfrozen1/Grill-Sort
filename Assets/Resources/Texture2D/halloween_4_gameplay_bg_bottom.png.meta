@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      halloween_4_gameplay_bg_bottom_0: -2274127345574020752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

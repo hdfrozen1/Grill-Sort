@@ -298,7 +298,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      halloween_2_gameplay_bg_table_0: 8767163346403681138
+      halloween_2_gameplay_bg_table_1: -7998490200231562231
+      halloween_2_gameplay_bg_table_2: 5308308847696692059
+      halloween_2_gameplay_bg_table_3: -5985115248332968985
+      halloween_2_gameplay_bg_table_4: 3007357113399555712
+      halloween_2_gameplay_bg_table_5: -8753363458368089928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
